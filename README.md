@@ -80,7 +80,7 @@ Converted raw data into actionable insights
 
 Clone the repository:
 
-https://github.com/Ohmkar-lab/end-to-end-ipl-data-analytics/blob/main/README.md
+https://github.com/Ohmkar-lab/end-to-end-ipl-data-analytics/tree/main
 
 
 Run SQL scripts to clean the data
