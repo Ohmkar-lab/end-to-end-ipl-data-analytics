@@ -5,7 +5,7 @@ import pandas as pd
 conn = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="MyNewPassword123",
+    password="Your_Password",
     database="ipl"
 )
 
@@ -33,5 +33,6 @@ print("Data inserted successfully!")
 
 cursor.close()
 conn.close()
+
 
 
