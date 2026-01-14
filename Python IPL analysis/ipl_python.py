@@ -8,7 +8,7 @@ from sqlalchemy import create_engine
 conn=mysql.connector.connect(
     host="localhost",
     user="root",
-    password="MyNewPassword123",
+    password="Your_Password",
     database="ipl",
     auth_plugin="mysql_native_password"
 )
@@ -353,5 +353,6 @@ plt.show()
 
 # deliveries.to_csv('Feature_Engineered_IPL_Dataset')
 # print('data saved successful')
+
 
 
